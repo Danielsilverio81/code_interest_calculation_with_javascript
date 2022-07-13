@@ -21,9 +21,8 @@ Para os inputs foi usado a biblioteca readline-sync do Node, instalado com o com
 
 ____________________________________________
 
-<div>
 <img src="../code_interest_calculation_with_javascript/assets/images/2022-07-13.png" alt="Imagem de como foi planejado o algoritmo" title="Planejamento Algoritmo">
-</div>
+
 
 ### Execution:
 To run clone the repository and run it on your machine

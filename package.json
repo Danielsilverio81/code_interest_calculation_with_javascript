@@ -1,0 +1,24 @@
+{
+  "name": "code_interest_calculation_with_javascript",
+  "version": "1.0.0",
+  "description": "Project algoritmo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielsilverio81/code_interest_calculation_with_javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danielsilverio81/code_interest_calculation_with_javascript/issues"
+  },
+  "homepage": "https://github.com/Danielsilverio81/code_interest_calculation_with_javascript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

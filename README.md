@@ -19,8 +19,6 @@ Neste repositório, você vera um pouco das minhas capacidades em algoritmos com
 Neste algoritmo tentei mostrar minhas capacidades de raciocínio logico e como trataria situações de erro exibindo mensagens para o usuário...
 Para os inputs foi usado a biblioteca readline-sync do Node, instalado com o comando Npm, esta nas pastas do projeto.
 
-____________________________________________
-
 <img src="../code_interest_calculation_with_javascript/assets/images/2022-07-13.png" alt="Imagem de como foi planejado o algoritmo" title="Planejamento Algoritmo">
 
 
